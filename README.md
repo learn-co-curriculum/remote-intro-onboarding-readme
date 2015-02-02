@@ -4,7 +4,7 @@ Let's go through some important onboarding information.
 
 ## Student Handbook
 
-[Student Handbook](https://github.com/flatiron-school-curriculum/remote-intro-onboarding-readme/blob/master/Flatiron-School-Student-Handbook-9-14.pdf) should be signed and submitted to carley@flatironschool.com as soon as possible.
+[Student Handbook](https://github.com/flatiron-school-curriculum/remote-intro-onboarding-readme/blob/master/Flatiron-School-Student-Handbook-9-14.pdf?raw=true) should be signed and submitted to carley@flatironschool.com as soon as possible.
  
 ## Github
 
