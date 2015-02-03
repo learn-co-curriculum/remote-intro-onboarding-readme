@@ -31,11 +31,14 @@ Every morning we'll have standups with the class and if you have a blog post due
 Here are some great Flatiron student blogs:
 
 * [Koren Leslie Cohen](http://www.korenlc.com/)
+* [Xida Zheng](http://xidazheng.com/)
+* [Mykel Periera](https://medium.com/@mykelp)
 * [Keith Willians](http://codewardbound.tumblr.com/)
 * [Sarah Ransohoff](http://sarahunderstandsverylittle.tumblr.com/)
 * [Denine Guy](http://denineguy.github.io/)
 * [Tristen Siegel](http://tsiege.github.io/)
 * [Kate Donahue](http://katepdonahue.tumblr.com/)
+* [Louis Tur](https://medium.com/@louistur)
 * [Oliver Switzer](http://allyourcodesarebelongtous.tumblr.com/)
 
 ## Getting Help
