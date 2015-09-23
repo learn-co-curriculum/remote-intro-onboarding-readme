@@ -4,7 +4,7 @@ Let's go through some important onboarding information.
 
 ## Student Handbook
 
-[Student Handbook](http://ironboard-curriculum-content.s3.amazonaws.com/etc/Flatiron-School-Student-Handbook-9-14.pdf) should be signed and submitted to carley@flatironschool.com as soon as possible.
+You should have received a link to our student handbook. Please sign it online ASAP! Let us know if you can't find the link.
  
 ## Github
 
