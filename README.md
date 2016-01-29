@@ -48,4 +48,4 @@ If you're stuck, try to work out a problem on your own. We guarantee that someon
 
 Yet of course we're here to help and want you to reach out if you're stuck. It sometimes makes more sense to reach out, like if there's a bug in a lab or you've been stuck for a long time.  We'll be using Learn.co to respond to any questions you might have relating to any labs.  When logged into Learn, you will see the **ASK A QUESTION** buton in the top right next to your profile image where you can ask your question.  Please use this as the exclusive method of communicating questions: we gather data with it that's super helpful for us when working on curriculum and thinking about points of confusion in our material.
 
-<a href='https://learn.co/lessons/remote-intro-onboarding-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/remote-intro-onboarding-readme' title='Onboarding'>Onboarding</a> on Learn.co and start learning to code for free.</p>
